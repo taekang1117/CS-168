@@ -17,7 +17,8 @@ We will study a generic 180nm technology
 * Wires made of polycrystalline silicon (poly), multiple layers of aluminum or copper (metal)
 * Silicon dioxide $\mathrm{SiO_2}$ is an insulator
 
-
+## II. The MOS Transistor
+<img width="481" height="301" alt="Screenshot-2021-05-07-at-14 07 02" src="https://github.com/user-attachments/assets/95b45a77-ff71-420a-a8e8-46ad918d9f99" />
 
 
 
