@@ -21,6 +21,7 @@ We will study a generic 180nm technology
 
 
 
+<img width="363" height="241" alt="Screenshot 2025-11-11 at 10 16 16 AM" src="https://github.com/user-attachments/assets/1335cb3c-cb21-4dc1-b1cf-11df7eccbda8" />
 
 
 
