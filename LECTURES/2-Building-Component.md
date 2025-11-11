@@ -15,7 +15,7 @@ We will study a generic 180nm technology
   - other structures built on top of substrate
 * Substrate regions are doped with n-type and p-type impurities (n+= heavily doped)
 * Wires made of polycrystalline silicon (poly), multiple layers of aluminum or copper (metal)
-* Silicon dioxide ($\text{SiO}_2}$) is insulator
+* Silicon dioxide $\mathrm{SiO_2}$ is an insulator
 
 
 
